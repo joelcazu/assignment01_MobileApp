@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ASSIGNMENT 1</string>
+    <string name="menu_message">Message</string>
+    <string name="menu_about">About</string>
+    <string name="menu_back">Back</string>
+    <string name="menu_exit">Exit</string>
+    <string name="about_text"><font fgcolor='#000000'> Name: Joel Santos Junior
+        \n\n Student ID:101276709</font></string>
+</resources>
