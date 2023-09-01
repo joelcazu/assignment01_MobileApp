@@ -1,2 +1,1 @@
-#Android App - Tax Calculator
-Tax Calculator
+# Android App - Tax Calculator
